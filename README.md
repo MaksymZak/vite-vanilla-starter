@@ -1,1 +1,1 @@
-# vite-vanilla-starter
+# vite starter vanilla
